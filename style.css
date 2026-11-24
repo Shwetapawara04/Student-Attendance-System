@@ -92,3 +92,12 @@ footer {
     margin-top: 30px;
     color: gray;
 }
+
+.container {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
