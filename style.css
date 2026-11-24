@@ -118,3 +118,9 @@ button {
 tr:hover {
     background: #dbeafe;
 }
+footer {
+    padding: 15px;
+    background: #1e3a5f;
+    color: white;
+    border-radius: 6px;
+}
